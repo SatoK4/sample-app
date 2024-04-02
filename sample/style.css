@@ -9,3 +9,7 @@
   /*class属性は同じページ内で複数回使用可能。同じ装飾をしたい要素が複数あるときに使う*/
   color: red;
 }
+
+.orange-word {
+    color: orange;
+}
